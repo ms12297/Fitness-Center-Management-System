@@ -1,0 +1,4 @@
+class_ID,class_name,list_of_sessions
+1,Cardio,[]
+2,HIIT,[]
+3,Cycling,[]
